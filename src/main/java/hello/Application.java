@@ -61,7 +61,8 @@ public class Application {
     
     // TODO add your implementation here to replace the random response. 
     
-    return commands[i];
+    //return commands[i];
+    return "T";
   }
 
 }
